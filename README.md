@@ -1,4 +1,4 @@
-# Gurgaon Real Estate Price Predictor & Recommendation System
+# Real Estate Price Predictor & Recommendation System
 
 A Streamlit-powered dashboard for exploring, predicting, and recommending properties in Gurgaon using machine learning and interactive visualizations.
 
