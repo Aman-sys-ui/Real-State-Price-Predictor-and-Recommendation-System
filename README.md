@@ -17,7 +17,7 @@ A Streamlit-powered dashboard for exploring, predicting, and recommending proper
 ## 🧩 Project Structure
 
 ```
-gurgaon-real-estate-price-predictor/
+real-estate-price-predictor/
 ├── app.py
 ├── requirements.txt
 ├── Dockerfile
@@ -45,7 +45,7 @@ gurgaon-real-estate-price-predictor/
 ## ⚙️ Setup Instructions
 
 1. Clone the repository  
-   `git clone https://github.com/yourusername/gurgaon-real-estate-price-predictor.git`  
+   `git clone https://github.com/yourusername/real-estate-price-predictor-and-recommendation-system.git`  
    `cd gurgaon-real-estate-price-predictor`
 
 2. Install dependencies  
