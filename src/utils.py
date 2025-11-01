@@ -37,5 +37,3 @@ def get_recommendations(selected_name, df, similarity_matrix, top_n=5):
     top_indices = [i for i, score in sim_scores[1 : top_n + 1]]
     top_scores = [score for i, score in sim_scores[1 : top_n + 1]]
     return df.iloc[top_indices], top_scores
-
-# Add more helpers as needed
