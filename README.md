@@ -46,7 +46,7 @@ real-estate-price-predictor/
 
 1. Clone the repository  
    `git clone https://github.com/yourusername/real-estate-price-predictor-and-recommendation-system.git`  
-   `cd gurgaon-real-estate-price-predictor`
+   `cd real-estate-price-predictor`
 
 2. Install dependencies  
    `pip install -r requirements.txt`
